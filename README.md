@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Kauê Benassi
 
-<!--
-**Benassi11/Benassi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Back-end Developer** especializado em APIs, arquitetura de software, desenvolvimento de sistemas escaláveis e soluções que resolvem problemas reais.
+Atualmente trabalho principalmente com:
 
-Here are some ideas to get you started:
+• Desenvolvimento e manutenção de APIs REST com Ruby on Rails
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Testes unitários
+
+• PostgreSQL e modelagem de banco de dados
+
+• Processamento assíncrono
+
+• Integração entre sistemas e APIs externas
+
+• Boas práticas de desenvolvimento e qualidade de código
+
+• Foco em performance, escalabilidade e manutenção de sistemas
+
+• Documentação e padronização de APIs REST
+
+## 🚀 Tecnologias
+
+### Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ruby,go,cs,ts" />
+</p>
+
+### Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rails,dotnet" />
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+</p>
+
+## 📚 Atualmente
+
+- 💪 Aprendendo continuamente e explorando novas tecnologias
+- 🧠 Estudando conceitos que tornam sistemas mais robustos e escaláveis
+- 🚀 Transformando conhecimento em projetos e experiência prática
+- 💡 Sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Benassi11&show_icons=true&theme=github_dark" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Benassi11&layout=compact&theme=github_dark" />
+</div>
+
+## 📫 Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/kaue-benassi-292548233/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/kaue.benassi/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:kaue123.benassi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+> *"Great software is built with clean code, curiosity, and continuous learning."*
