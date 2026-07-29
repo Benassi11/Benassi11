@@ -1,9 +1,12 @@
 # 👋 Olá, eu sou o Kauê Benassi
 
-💻 **Back-end Developer** especializado em APIs, arquitetura de software, desenvolvimento de sistemas escaláveis e soluções que resolvem problemas reais.
-Atualmente trabalho principalmente com:
+💻 **Full-Stack Developer** especializado em desenvolvimento de sistemas, arquitetura de software e construção de soluções escaláveis que resolvem problemas reais.
 
-• Desenvolvimento e manutenção de APIs REST com Ruby on Rails
+Atualmente atuo com:
+
+• Desenvolvimento de APIs e aplicações web
+
+• Desenvolvimento de funcionalidades em interfaces modernas
 
 • Testes unitários
 
@@ -30,7 +33,7 @@ Atualmente trabalho principalmente com:
 ### Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=rails,dotnet" />
+  <img src="https://skillicons.dev/icons?i=rails,dotnet,angular" />
 </p>
 
 ### Banco de Dados
