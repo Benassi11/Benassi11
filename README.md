@@ -58,8 +58,8 @@ Atualmente atuo com:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Benassi11&show_icons=true&theme=github_dark" />
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Benassi11&layout=compact&theme=github_dark" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Benassi11&show_icons=true&theme=github_dark" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benassi11&layout=compact&theme=github_dark" />
 </div>
 
 ## 📫 Contato
