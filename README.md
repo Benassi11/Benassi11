@@ -55,13 +55,6 @@ Atualmente atuo com:
 - 🚀 Transformando conhecimento em projetos e experiência prática
 - 💡 Sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Benassi11&show_icons=true&theme=github_dark" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benassi11&layout=compact&theme=github_dark" />
-</div>
-
 ## 📫 Contato
 
 <p>
