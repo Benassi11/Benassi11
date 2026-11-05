@@ -27,13 +27,13 @@ Atualmente atuo com:
 ### Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ruby,go,cs,ts" />
+  <img src="https://skillicons.dev/icons?i=ruby,go,ts,python" />
 </p>
 
 ### Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=rails,dotnet,angular" />
+  <img src="https://skillicons.dev/icons?i=rails,angular,fastapi" />
 </p>
 
 ### Banco de Dados
